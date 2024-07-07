@@ -1,2 +1,2 @@
-# PowerShell Snippets
-This repository is meant for me to save and look back on past useful powershell scripts.
+# The Purpose
+This repository just stores all scripts I write for my job and personal use. This will include PowerShell and Bash scripts.
